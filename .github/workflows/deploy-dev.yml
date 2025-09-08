@@ -20,6 +20,6 @@ jobs:
           script: |
             cd /home/ubuntu/lv3-final-mission
             git pull origin dev
-            ./gradlew clean build -x test
+            ./gradlew clean build
             sudo fuser -k -n tcp 8080 || true
             nohup java -jar build/libs/lv2-final-mission-0.0.1-SNAPSHOT.jar > ./output.log 2>&1 &
