@@ -1,6 +1,11 @@
 # 인프라 
 
+### 구성도
 <img width="571" height="293" alt="image" src="https://github.com/user-attachments/assets/e6320eb9-1503-4cd7-a59d-24f1e5423340" />
+
+### Https 연결
+<img width="1238" height="806" alt="스크린샷 2025-09-08 165353" src="https://github.com/user-attachments/assets/7dad0336-686a-4c7a-ac70-2d90b41f2357" />
+<img width="1040" height="365" alt="스크린샷 2025-09-08 165359" src="https://github.com/user-attachments/assets/b718dcd6-3fd8-4031-93a6-35c8ea03df26" />
 
 
 ## 구성 요소
